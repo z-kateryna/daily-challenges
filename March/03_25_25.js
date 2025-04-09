@@ -45,3 +45,5 @@ console.log(productResult(array))
 
 //     return result;
 // }
+
+// The fill() method of Array instances changes all elements within a range of indices in an array to a static value. It returns the modified array.
